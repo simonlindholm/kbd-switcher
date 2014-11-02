@@ -28,7 +28,7 @@ var ext = {
 		var doc = ev.originalTarget, win = doc && doc.defaultView;
 		if (!win || win.parent !== win)
 			return;
-		
+
 		var host = win.location.host;
 		if (ext.scripts.hasOwnProperty(host))
 			ext.scripts[host](doc);
