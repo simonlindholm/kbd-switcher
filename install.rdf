@@ -10,10 +10,10 @@
                    em:id="kbd@simonsoftware.se"
                    em:version="0.1.1"
                    em:type="2"
-				   em:name="Keyboard layout changer"
+                   em:name="Keyboard layout changer"
                    em:description="Automatically change the keyboard layout to Swedish when visiting certain pages."
                    em:creator="Simon Lindholm"
-				   em:homepageURL="http://simonsoftware.se/">
+                   em:homepageURL="http://simonsoftware.se/">
     <em:targetApplication RDF:resource="rdf:#$lIac91"/>
   </RDF:Description>
 </RDF:RDF>
